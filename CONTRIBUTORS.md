@@ -22,6 +22,10 @@
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
+#### Name: [NIVEDITHA N](https://github.com/WCoder007)
+- Place: KERELA , INDIA
+- Bio : Student
+- Github : [WCoder007](https://github.com/WCoder007)
 
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
